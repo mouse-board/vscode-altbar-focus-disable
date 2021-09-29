@@ -1,1 +1,8 @@
 # vscode-altbar-focus-disable
+
+Disable focus (to top bar) behaviour of alt key in Vs Code
+add to settings.json:
+~~~
+"window.titleBarStyle": "custom",
+"window.customMenuBarAltFocus": false
+~~~
