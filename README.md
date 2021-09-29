@@ -1,0 +1,1 @@
+# vscode-altbar-focus-disable
